@@ -1,0 +1,31 @@
+Movie: Parasite
+Movie_ID: parasite
+Source: Roger Ebert
+Reviewer: Brian Tallerico
+
+[Overview]
+“Parasite” is a genre-blending film that examines class inequality through the story of a poor family infiltrating a wealthy household. Beginning as a dark comedy and shifting into a tense thriller, the film explores social divisions with sharp storytelling and visual symbolism. The review highlights its unpredictability, thematic depth, and masterful direction as key strengths.
+
+[Theme]
+The film explores class inequality and structural division between the rich and the poor. It presents a sharp critique of how modern society is shaped by economic disparity, highlighting the invisible yet powerful systems that separate social classes. The narrative questions whether mobility between these classes is truly possible.
+
+[Tone and Narrative Style]
+“Parasite” begins as a satirical comedy of manners, blending humor with social observation. However, it undergoes a dramatic tonal shift in its second half, transforming into a darker, more violent narrative. This unpredictable shift is one of the film’s defining strengths, creating a story that is both entertaining and unsettling.
+
+[Plot Overview]
+The story follows Kim Ki-woo and his struggling family, who live in poverty and take on small jobs to survive. When Ki-woo secures a tutoring position with the wealthy Park family, he gradually brings the rest of his family into the household under false identities. As their plan unfolds successfully, tensions build until an unexpected turn disrupts their carefully constructed scheme.
+
+[Character Dynamics]
+The Kim family is portrayed as resourceful and opportunistic, while the Park family appears naive and detached from reality. The interaction between these two families drives the narrative, revealing the dependency of the wealthy on the labor of the poor and the resentment that simmers beneath the surface.
+
+[Visual Storytelling]
+Director :contentReference[oaicite:0]{index=0} uses visual composition to reinforce the film’s themes. The contrast between the spacious, modern Park home and the cramped, semi-basement Kim apartment symbolizes the divide between social classes. These visual elements subtly enhance the storytelling without drawing overt attention.
+
+[Social Commentary]
+The film delivers a powerful commentary on economic inequality, showing how the wealthy rely on the labor of the poor while remaining unaware of their struggles. It highlights the illusion of upward mobility and exposes the harsh realities faced by those at the bottom of the social hierarchy.
+
+[Critical Analysis]
+The screenplay, co-written by Bong Joon-ho and Han Jin-won, is praised for its intricate structure and unexpected twists. Despite the complexity of its narrative, the film maintains coherence and emotional impact, balancing entertainment with deeper thematic exploration.
+
+[Conclusion]
+“Parasite” is both entertaining and thought-provoking, combining humor, tension, and social critique. Its ability to seamlessly shift tones while maintaining a strong thematic core makes it a standout film. The review considers it one of the best films of its year and a significant achievement in contemporary cinema.

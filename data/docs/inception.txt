@@ -1,0 +1,34 @@
+Movie: Inception
+Movie_ID: inception
+Source: Roger Ebert
+Reviewer: Roger Ebert
+
+[Overview]
+Christopher Nolan’s “Inception” is a complex and ambitious science fiction film built around layered dreams and psychological exploration. The narrative functions as a maze, challenging the viewer to navigate multiple levels of reality and illusion.
+
+[Theme]
+The film explores themes of perception, reality, memory, and guilt. It examines how dreams shape human experience and questions the boundary between what is real and what is imagined. Emotional themes, particularly loss and regret, are central to the story.
+
+[Concept & Structure]
+“Inception” is constructed as a multi-layered narrative involving dreams within dreams. The story emphasizes process over outcome, focusing on how events unfold rather than simply what happens. The structure creates a sense of disorientation, mirroring the experience of dreaming.
+
+[Plot & Premise]
+The story follows Dom Cobb, a skilled extractor who enters people’s dreams to steal ideas. He is tasked with performing “inception”—planting an idea into someone’s mind so naturally that it feels self-generated. To achieve this, he assembles a team with specialized skills, including a dream architect, strategist, and chemist.
+
+[World Building]
+The film presents a unique interpretation of dream environments, where architecture can shift and physical laws can be manipulated. These dreamscapes allow for visually striking sequences, such as cities folding onto themselves and gravity-defying action.
+
+[Character Analysis]
+Cobb is driven by guilt and emotional trauma related to his wife, Mal. His psychological state influences the dream world, making her presence both a threat and an emotional anchor. Supporting characters contribute to the heist-like structure of the narrative.
+
+[Emotional Core]
+Despite its complexity, the film maintains an emotional thread centered on Cobb’s desire to return to his children. His relationship with Mal adds depth and tension, grounding the abstract narrative in human emotion.
+
+[Action & Cinematic Style]
+The film blends intellectual storytelling with action sequences, including chases, combat, and large-scale set pieces. These elements follow familiar heist and espionage conventions while operating within a highly original framework.
+
+[Interpretation & Ambiguity]
+“Inception” is intentionally ambiguous, particularly in its ending. The film invites multiple interpretations and encourages ongoing discussion about the nature of reality and the reliability of perception.
+
+[Conclusion]
+“Inception” stands out as a highly original and intellectually engaging film. It combines complex narrative design with emotional depth, offering both spectacle and thought-provoking ideas, making it one of Christopher Nolan’s most distinctive works.

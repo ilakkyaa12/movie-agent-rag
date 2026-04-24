@@ -3,10 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env.example
+.env
 .cache/
 *.safetensors
 *.bin
 *.pt
 *.faiss
 *.pkl
+logs/*
+!logs/sample_trace.txt

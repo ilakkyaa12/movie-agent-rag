@@ -1,0 +1,16 @@
+# LLM & Agent
+openai
+python-dotenv
+
+# Vector search (search_docs tool)
+faiss-cpu
+sentence-transformers
+numpy
+
+# Structured data (query_data tool)
+pandas
+rapidfuzz
+
+# Web search (web_search tool)
+tavily-python
+duckduckgo-search

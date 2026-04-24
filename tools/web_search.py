@@ -66,11 +66,3 @@ def web_search(query: str, max_results: int = 3) -> dict:
         logger.error("DuckDuckGo also failed: %s", e)
 
     return {"results": [], "query": query, "source": "none", "error": "All search backends failed."}
-
-
-# ── CLI test ───────────────────────────────────────────────────────────────────
-if __name__ == "__main__":
-    import json, sys
-    query = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "Oppenheimer Oscar wins 2024"
-    out   = web_search(query)
-    print(json.dumps(out, indent=2))

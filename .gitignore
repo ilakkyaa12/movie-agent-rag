@@ -11,4 +11,5 @@ __pycache__/
 *.faiss
 *.pkl
 logs/*
+!logs/
 !logs/sample_trace.txt
